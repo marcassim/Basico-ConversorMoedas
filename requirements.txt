@@ -1,5 +1,6 @@
 certifi==2021.10.8
 charset-normalizer==2.0.12
+colorama==0.4.4
 CurrencyConverter==0.16.8
 forex-python==1.8
 idna==3.3
